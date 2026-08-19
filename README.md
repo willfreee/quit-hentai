@@ -14,11 +14,11 @@ By the time you finish reading, you will not need to fight the desire. You will 
 
 1. **Do not try to quit while reading.** Continue as you are. The book works by dismantling the beliefs that make hentai seem valuable—and you need to observe the behavior while those beliefs are still active.
 
-2. **Read in order.** Each chapter builds on the previous one. The arguments are cumulative. By the final chapters, the full picture will be clear.
+1. **Read in order.** Each chapter builds on the previous one. The arguments are cumulative. By the final chapters, the full picture will be clear.
 
-3. **There is a final session.** Near the end of the book, you'll be guided through one last session—not as a farewell ritual, but as a dissection. You'll watch the trap operate one final time, with the lights on, knowing it has already been dismantled in your mind.
+1. **There is a final session.** Near the end of the book, you'll be guided through one last session—not as a farewell ritual, but as a dissection. You'll watch the trap operate one final time, with the lights on, knowing it has already been dismantled in your mind.
 
-4. **You will write a letter to yourself.** The final chapter is not written by the author. It's written by you. This letter becomes your permanent anchor—a document, in your own words, that will outlast any momentary echo of the old illusion.
+1. **You will write a letter to yourself.** The final chapter is not written by the author. It's written by you. This letter becomes your permanent anchor—a document, in your own words, that will outlast any momentary echo of the old illusion.
 
 ## Acknowledgments
 
@@ -34,8 +34,8 @@ This book is open-source. If you find errors, have suggestions for improvement, 
 To contribute:
 
 1. **Open an issue** to discuss proposed changes before submitting a pull request
-2. **For translations**, please open an issue first to coordinate and avoid duplicate efforts
-3. **For substantive content changes**, explain your reasoning—this book follows a specific psychological framework, and changes should be consistent with its core logic
+1. **For translations**, please open an issue first to coordinate and avoid duplicate efforts
+1. **For substantive content changes**, explain your reasoning—this book follows a specific psychological framework, and changes should be consistent with its core logic
 
 ## License
 

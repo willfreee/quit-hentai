@@ -1,6 +1,7 @@
 # Summary
 
 # UNMASKING THE TRAP
+
 - [Chapter 1: Do Not Stop While Reading](./01.md)
 - [Chapter 2: What If There's Nothing Wrong with You?](./02.md)
 - [Chapter 3: The Trap, Not the Trapped](./03.md)
@@ -9,6 +10,7 @@
 - [Chapter 6: The Voice in Your Head That Isn't You](./06.md)
 
 # DISMANTLING THE ILLUSIONS
+
 - [Chapter 7: It's Just Pixels](./07.md)
 - [Chapter 8: The Stress Relief That Creates Stress](./08.md)
 - [Chapter 9: The Sleep Aid That Keeps You Wired](./09.md)
@@ -21,6 +23,7 @@
 - [Chapter 16: The Sunk Cost Fallacy](./16.md)
 
 # WHY WILLPOWER FAILS
+
 - [Chapter 17: The Moderation Myth](./17.md)
 - [Chapter 18: The Streak Counter Paradox](./18.md)
 - [Chapter 19: Why Blockers Create Desire](./19.md)
@@ -29,6 +32,7 @@
 - [Chapter 22: The Zero-Sacrifice Reality](./22.md)
 
 # PERMANENT FREEDOM
+
 - [Chapter 23: The Final Session](./23.md)
 - [Chapter 24: The First Night Without It](./24.md)
 - [Chapter 25: When the Old Trigger Fires](./25.md)
